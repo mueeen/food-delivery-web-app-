@@ -1,0 +1,60 @@
+.navbar{
+   
+    width: 80%;
+  margin: 0 auto;
+    height: 80px;
+    background-color:black;
+   display: flex;
+   padding: 10px 30px;
+  
+  
+  }
+  .navbarcontainer{
+    width: 100%;
+    background-color: black;
+  }
+  .gold{
+    width: 100%;
+    height: 2px;
+   background-color: gold;
+  }
+  .navbar ul{
+    display: flex;
+    display: flex;
+   padding-top: 10px;
+   margin: 0;
+   justify-content: center;
+  
+  }
+  .navbar ul li{
+    list-style: none;
+    color: aqua;
+    padding-top: 10px;
+   
+   
+  }
+  .navbar ul li a{
+  font-size: 30px;
+  color: gold;
+  margin-left: 30px;
+  text-decoration: none;
+  text-transform: capitalize;
+  }
+  .navbar ul li a:hover{
+    color:white;
+  }
+  .navbarbarnd{
+   width: 8%;
+   height: 85px;
+  
+  
+  
+  
+  }
+  .navbarbarnd img{
+  width: 80px;
+  height: 80px;
+    border-radius: 100%;
+  
+   
+  }
